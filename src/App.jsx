@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Services from "./components/Services";
-import WhyChooseUs from "./components/WhyChooseUs";
+import WhyChooseus from "./components/WhyChooseus";
 import Industries from "./components/Industries";
 import Process from "./components/Process";
 import Testimonials from "./components/Testimonials";
