@@ -35,7 +35,7 @@ Let's create something amazing.
 
 <FaEnvelope/>
 
-hello@creativestudio.com
+dc1330483@gmail.com
 
 </div>
 
@@ -44,7 +44,7 @@ hello@creativestudio.com
 
 <FaPhone/>
 
-+91 98765 43210
++91 93730 11123
 
 </div>
 
